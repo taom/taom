@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | AI Systems, Full-Stack Platforms, and Production Reliability**
 
-Yorba Linda, CA | [tao@koslu.com](mailto:tao@koslu.com) | 909-732-5466 | [github.com/taom](https://github.com/taom)
+Yorba Linda, CA | [taoma@outlook.com](mailto:taoma@outlook.com) | 909-732-5466 | [github.com/taom](https://github.com/taom)
 
 I'm a software engineer with 18+ years of experience and an M.S. in Computer Science (Intelligent Robotics) from USC. I build and run mobile apps, websites, and server applications with Python, TypeScript, React, React Native, C#/.NET, SQL, AWS, and Azure, including server-side-rendered Blazor web apps and GraphQL and REST APIs. Recent work includes AI-enabled applications, LLM benchmarking and evaluation, and ticketing, payments, and subscriber-billing platforms in production.
 
