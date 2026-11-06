@@ -4,7 +4,7 @@
 
 Yorba Linda, CA | [tao@koslu.com](mailto:tao@koslu.com) | 909-732-5466 | [github.com/taom](https://github.com/taom)
 
-I'm a software engineer with 18+ years of experience and an M.S. in Computer Science (Intelligent Robotics) from USC. I build and run mobile apps, websites, and server applications with Python, TypeScript, React, React Native, C#/.NET, SQL, AWS, and Azure. Recent work includes AI-enabled applications, LLM benchmarking and evaluation, and ticketing, payments, and subscriber-billing platforms in production.
+I'm a software engineer with 18+ years of experience and an M.S. in Computer Science (Intelligent Robotics) from USC. I build and run mobile apps, websites, and server applications with Python, TypeScript, React, React Native, C#/.NET, SQL, AWS, and Azure, including server-side-rendered Blazor web apps and GraphQL and REST APIs. Recent work includes AI-enabled applications, LLM benchmarking and evaluation, and ticketing, payments, and subscriber-billing platforms in production.
 
 I've led architecture and delivery for three production platforms, including a four-developer team, and I work directly with non-technical stakeholders. I handle projects from requirements and system design through deployment and ongoing support.
 
@@ -26,7 +26,7 @@ I led architecture and delivery for Safer Seating, ClearBilling, and Oonie/Care,
 
 Safer Seating is a production event-ticketing platform covering venue seating maps, season passes, payments, digital wallet passes, email notifications, ticket printing, ticket scanning, refunds, and reporting.
 
-I designed and operated the cloud backend on Azure, the Blazor web client, iOS and Android ticketing apps, the gate scanner, and the Stripe payment integration.
+I designed and operated the cloud backend on Azure, the server-side-rendered Blazor web client, iOS and Android ticketing apps, the gate scanner, and the Stripe payment integration.
 
 - Raised uptime from **80% to 99.99%**
 - Cut checkout from **5 minutes to 15 seconds** and gate entry from **3 minutes to 5 seconds**
@@ -78,7 +78,7 @@ I'm a co-inventor on a patent application for Bluetooth-based nearby discovery. 
 
 ### Internal applications
 
-I build internal websites, web applications, and mobile apps with React and React Native. Across my projects, I review code and use unit, integration, and end-to-end tests and source control in daily work.
+I build internal websites, web applications, and mobile apps with React and React Native, backed by GraphQL and REST APIs, and cross-platform apps with .NET MAUI and Blazor. Across my projects, I review code and use unit, integration, and end-to-end tests and source control in daily work.
 
 ## Earlier experience
 
@@ -119,10 +119,10 @@ I built websites for the chemical engineering, materials science, and petroleum 
 ## Technical skills
 
 - **AI systems and evaluation:** OpenAI, Claude, and Gemini APIs; local open-weight LLMs; model orchestration; LLM benchmarking and evaluation on quality, speed, and cost; agent workflows; repeatable test cases
-- **Languages and frameworks:** Python, TypeScript, JavaScript, C#, SQL, Java, HTML/CSS; React, React Native/Expo, Node.js, .NET/ASP.NET Core, Blazor, .NET MAUI, Entity Framework, Unity
+- **Languages and frameworks:** Python, TypeScript, JavaScript, C#, SQL, Java, HTML/CSS; React, React Native/Expo, Node.js, .NET/ASP.NET Core, Blazor (server-side rendering), .NET MAUI (Blazor Hybrid), Entity Framework, Unity
 - **Cloud and infrastructure:** AWS (Bedrock, EC2, S3, Aurora, Lambda, SNS, SQS, IAM, MediaLive); Azure (App Service, SignalR, Notification Hubs); Cloudflare (DNS, Email, CDN, Workers, Pages, D1, TURN); load balancing, managed databases, deployment automation; Windows, Linux, macOS
 - **Payments and billing:** Stripe, IPPay, recurring billing, AutoPay, refunds, receipts, reconciliation and reporting
-- **Data and performance:** SQL, MongoDB, SQLite, REST APIs, batch processing, data pipelines, query optimization, caching, logging, monitoring
+- **Data and performance:** SQL, MongoDB, SQLite, GraphQL and REST APIs, batch processing, data pipelines, query optimization, caching, logging, monitoring
 - **Engineering and security:** Docker, security scanning, attack mitigation, code review, unit, integration, and end-to-end testing; source control (Git, GitHub, Perforce, SVN, Azure DevOps)
 
 ## Education
